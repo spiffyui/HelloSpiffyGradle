@@ -19,6 +19,13 @@ This will download the project dependencies, build the Hello Spiffy Gradle proje
 
 This project is a good example of calling Java from Gradle with dynamic loading and how we can reuse the Spiffy UI build utilities in many build systems.
 
+
+Debugging through Eclipse
+--------------------------------------
+
+See [Spiffy UI's GWT Dev Mode page](http://www.spiffyui.org/#!hostedMode) for more information.
+
+
 License
 --------------------------------------
 
