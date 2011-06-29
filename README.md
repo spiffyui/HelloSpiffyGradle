@@ -1,4 +1,4 @@
-[Hello Spiffy Gradle](http://www.spiffyui.org) - GWT Made Simple
+[Spiffy UI](http://www.spiffyui.org) - GWT Made Simple
 ==================================================
 
 Hello Spiffy Gradle is a sample application using the [Spiffy UI Framework](http://www.spiffyui.org) which builds a simple REST application with Gradle.
