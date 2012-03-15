@@ -17,7 +17,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath group: 'org.spiffyui', name: 'spiffyuitasks', version: '1.0'
+        classpath group: 'org.spiffyui', name: 'spiffyuitasks', version: '1.0.1'
     }
 }
 
@@ -44,7 +44,7 @@ dependencies {
     providedCompile 'javax.servlet:servlet-api:2.5'
     compile group: 'javax.validation', name: 'validation-api', version: '1.0.0.GA'
     compile group: 'javax.validation', name: 'validation-api', version: '1.0.0.GA', classifier: 'sources'
-    compile 'org.spiffyui:spiffyui:1.0'
+    compile 'org.spiffyui:spiffyui:1.0.1'
     compile files('build/gen');
 }
 
